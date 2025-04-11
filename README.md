@@ -12,6 +12,7 @@ This project is developed for the Solvei8 AI/ML Internship Assignment. It provid
 ```
 ├── hotel_bookings.csv                # Dataset
 ├── main.py                           # FastAPI + RAG system
+├── .env                              # API Keys
 └── README.md                         # Project documentation
 ```
 
