@@ -104,9 +104,11 @@ uvicorn main:app --reload
 ---
 ## Sample Quesries and results
 1.show me revenue for 2017
+
 Based on the provided data, the total revenue for 2017 from canceled bookings is 300.0 (75.0 * 4).  Note that this only reflects revenue *lost* due to cancellations, not actual revenue generated in 2017.  There is no information on bookings that were not canceled in 2017.
 
 2.Which locations had the highest booking cancellations?
+
 Based solely on the provided data, the Resort Hotel had the highest number of booking cancellations.  The data shows multiple cancellations for the same booking ID (259) in 2015.
 
 
